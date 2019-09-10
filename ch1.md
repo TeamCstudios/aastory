@@ -1,4 +1,4 @@
-[Back](README)
+[Back](README.md)
 
 **Diary of Dilwyn Scott**<br>
 *translated from Elvish*<br>
