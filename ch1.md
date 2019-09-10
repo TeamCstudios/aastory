@@ -1,3 +1,5 @@
+[Back](README)
+
 **Diary of Dilwyn Scott**<br>
 *translated from Elvish*<br>
 3.2.3.1044<br>
