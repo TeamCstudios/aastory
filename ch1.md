@@ -28,9 +28,10 @@ Announcements, Fourth of Second Tenday of Triax
 - The Earlyspring Tournament is happening! Test out your skills! First division is for underclassmen, Second division for upperclassmen. Deadline to apply is 10.1.4.1044 and the tournament will be on 10.2-2.3.4.1044.
 
 
-**Diary of Dilwyn Scott**
-*Translated from Elvish*
-5.2.3.1044
+**Diary of Dilwyn Scott**<br>
+*Translated from Elvish*<br>
+5.2.3.1044<br>
+Dear Diary,<br>
 Today we learned *detect magic* protocol in Sorcery. Every color of your expanded sight means something. Light red is abjuration, Blue is enchantment, Purple is illusion, and so on. Out of the corner of my eye, I saw a blob of crimson. Offhandedly, I asked "Professor Selva, what does very dark red mean?"
 
 He responded "Dark red is a chaotic, uncontrolled magick somewhere between conjuration, abjuration, and evocation. Why do you ask?"
