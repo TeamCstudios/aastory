@@ -13,6 +13,10 @@ Chapter 7 <br>
 Chapter 8 <br>
 Chapter 9 <br>
 Chapter 10 <br>
+
+## Fuschia Arc
 Chapter 11 <br>
 Chapter 12 <br>
 Chapter 13 <br>
+Chapter 14 <br>
+Chapter 15 <br>
